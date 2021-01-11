@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/proChef/precache-manifest.cf50d5d77df075d5f562371ff8781fb3.js"
+  "/proChef/precache-manifest.2c95b064b7dd9780ceaac8f309b3539f.js"
 );
 
 self.addEventListener('message', (event) => {

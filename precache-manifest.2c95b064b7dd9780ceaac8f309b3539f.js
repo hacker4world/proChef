@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "db695617d546b42e10f7a88e5f9a6634",
+    "revision": "3f7e1fe657d3ad9c8e5bf3806603b2bf",
     "url": "/proChef/index.html"
   },
   {
-    "revision": "bf4619fb40f639ae5ecc",
+    "revision": "9eddb349b78dd28bdb72",
     "url": "/proChef/static/css/2.dacfdb80.chunk.css"
   },
   {
-    "revision": "0233473a33a958ceb23e",
+    "revision": "1962b5f989536e0538f7",
     "url": "/proChef/static/css/main.b37665d3.chunk.css"
   },
   {
-    "revision": "bf4619fb40f639ae5ecc",
-    "url": "/proChef/static/js/2.691a625e.chunk.js"
+    "revision": "9eddb349b78dd28bdb72",
+    "url": "/proChef/static/js/2.65211886.chunk.js"
   },
   {
     "revision": "9f81f95fdf77198dcf92d14b566e110e",
-    "url": "/proChef/static/js/2.691a625e.chunk.js.LICENSE.txt"
+    "url": "/proChef/static/js/2.65211886.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0233473a33a958ceb23e",
-    "url": "/proChef/static/js/main.eed32135.chunk.js"
+    "revision": "1962b5f989536e0538f7",
+    "url": "/proChef/static/js/main.8d5d6eae.chunk.js"
   },
   {
     "revision": "f4561bb3da25b8efb86b",
