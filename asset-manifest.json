@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/proChef/static/css/main.b37665d3.chunk.css",
+    "main.js": "/proChef/static/js/main.eed32135.chunk.js",
+    "main.js.map": "/proChef/static/js/main.eed32135.chunk.js.map",
+    "runtime-main.js": "/proChef/static/js/runtime-main.33b07533.js",
+    "runtime-main.js.map": "/proChef/static/js/runtime-main.33b07533.js.map",
+    "static/css/2.dacfdb80.chunk.css": "/proChef/static/css/2.dacfdb80.chunk.css",
+    "static/js/2.691a625e.chunk.js": "/proChef/static/js/2.691a625e.chunk.js",
+    "static/js/2.691a625e.chunk.js.map": "/proChef/static/js/2.691a625e.chunk.js.map",
+    "index.html": "/proChef/index.html",
+    "precache-manifest.cf50d5d77df075d5f562371ff8781fb3.js": "/proChef/precache-manifest.cf50d5d77df075d5f562371ff8781fb3.js",
+    "service-worker.js": "/proChef/service-worker.js",
+    "static/css/2.dacfdb80.chunk.css.map": "/proChef/static/css/2.dacfdb80.chunk.css.map",
+    "static/css/main.b37665d3.chunk.css.map": "/proChef/static/css/main.b37665d3.chunk.css.map",
+    "static/js/2.691a625e.chunk.js.LICENSE.txt": "/proChef/static/js/2.691a625e.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/proChef/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33b07533.js",
+    "static/css/2.dacfdb80.chunk.css",
+    "static/js/2.691a625e.chunk.js",
+    "static/css/main.b37665d3.chunk.css",
+    "static/js/main.eed32135.chunk.js"
+  ]
+}
